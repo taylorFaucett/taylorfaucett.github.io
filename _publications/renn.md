@@ -1,15 +1,15 @@
 ---
-title: "Parameterized neural networks for high-energy physics"
+title: "Mapping Machine-Learned Physics into a Human-Readable Space"
 collection: publications
-permalink: https://link.springer.com/article/10.1140/epjc/s10052-016-4099-4
-excerpt: 'We investigate a new structure for machine learning classifiers built with neural networks and applied to problems in high-energy physics by expanding the inputs to include not only measured features but also physics parameters.'
-date: 2016-01-28
-venue: 'European Physical Journal C'
-paperurl: 'https://link.springer.com/article/10.1140/epjc/s10052-016-4099-4'
-citation: 'Baldi, P., Cranmer, K., Faucett, T. et al. Parameterized neural networks for high-energy physics. Eur. Phys. J. C 76, 235 (2016)'
+permalink: https://doi.org/10.1103/PhysRevD.103.036020
+excerpt: 'We present a technique for translating a black-box machine-learned classifier operating on a high-dimensional input space into a small set of human-interpretable observables that can be combined to make the same classification decisions.'
+date: 2020-10-22
+venue: 'Physical Review D'
+paperurl: 'https://doi.org/10.1103/PhysRevD.103.036020'
+citation: 'Taylor Faucett, Jesse Thaler, and Daniel Whiteson, Phys. Rev. D 103, 036020'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[Download paper here](https://link.springer.com/article/10.1140/epjc/s10052-016-4099-4)
+[Download paper here](files/renn.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
