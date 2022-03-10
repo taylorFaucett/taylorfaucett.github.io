@@ -1,7 +1,7 @@
 ---
 title: "Parameterized neural networks for high-energy physics"
 collection: publications
-permalink: https://doi.org/10.1140/epjc/s10052-016-4099-4
+permalink: parameterized
 excerpt: 'We investigate a new structure for machine learning classifiers built with neural networks and applied to problems in high-energy physics by expanding the inputs to include not only measured features but also physics parameters.'
 date: 2016-01-28
 venue: 'European Physical Journal C'

@@ -1,7 +1,7 @@
 ---
 title: "Learning to Isolate Muons"
 collection: publications
-permalink: https://doi.org/10.1007/JHEP10%282021%29200
+permalink: muons
 excerpt: 'We assemble a small set of high-level observables which summarize the calorimeter information and close the performance gap with networks which analyze the calorimeter cells directly.'
 date: 2021-02-03
 venue: 'Journal of High Energy Physics'

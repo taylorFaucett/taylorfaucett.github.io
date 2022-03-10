@@ -1,7 +1,7 @@
 ---
 title: "Mapping Machine-Learned Physics into a Human-Readable Space"
 collection: publications
-permalink: https://doi.org/10.1103/PhysRevD.103.036020
+permalink: renn
 excerpt: 'We present a technique for translating a black-box machine-learned classifier operating on a high-dimensional input space into a small set of human-interpretable observables that can be combined to make the same classification decisions.'
 date: 2020-10-22
 venue: 'Physical Review D'

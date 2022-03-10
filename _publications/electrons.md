@@ -1,7 +1,7 @@
 ---
 title: "Learning to Identify Electrons"
 collection: publications
-permalink: https://doi.org/10.1103/PhysRevD.103.116028
+permalink: electrons
 excerpt: 'We investigate whether state-of-the-art classification features commonly used to distinguish electrons from jet backgrounds in collider experiments are overlooking valuable information.'
 date: 2020-12-23
 venue: 'Physical Review D'
