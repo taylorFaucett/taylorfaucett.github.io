@@ -12,8 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Physics, University of California at Irvine, 2021
+  * GPA: 3.77
+  * Thesis Title: Decoding Black Box Models to Find New Physics at the LHC
 * M.S. in Physics, University of Hawaii at Manoa, 2015
+  * GPA: 3.76
 * B.S. in Physics, Westminster College (SLC Utah), 2009
+  * GPA: 3.50
 
 Work experience
 ======
