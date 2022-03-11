@@ -6,7 +6,7 @@ excerpt: 'We investigate whether state-of-the-art classification features common
 date: 2020-12-23
 venue: 'Physical Review D'
 paperurl: 'https://doi.org/10.1103/PhysRevD.103.116028'
-citation: 'Collado, Julian, et al. "Learning to identify electrons." Physical Review D 103.11 (2021)'
+citation: 'Collado, Julian, et al. Learning to identify electrons. Physical Review D 103.11 (2021)'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 

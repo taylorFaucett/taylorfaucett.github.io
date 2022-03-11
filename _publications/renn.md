@@ -6,7 +6,7 @@ excerpt: 'We present a technique for translating a black-box machine-learned cla
 date: 2020-10-22
 venue: 'Physical Review D'
 paperurl: 'https://doi.org/10.1103/PhysRevD.103.036020'
-citation: 'Taylor Faucett, Jesse Thaler, and Daniel Whiteson, Phys. Rev. D 103, 036020'
+citation: 'Taylor Faucett, Jesse Thaler, and Daniel Whiteson. Mapping machine-learned physics into a human-readable space. Phys. Rev. D 103, 036020'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
