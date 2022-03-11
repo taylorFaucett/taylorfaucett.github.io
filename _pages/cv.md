@@ -11,36 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics, University of California at Irvine, 2021
+* M.S. in Physics, University of Hawaii at Manoa, 2015
+* B.S. in Physics, Westminster College (SLC Utah), 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015 - Present: UC Irvine, Graduate Research Assistant
+  * Designed techniques for simplifying complex "multi-model" ML problems into simpler and morepowerful single-model methods to improve speedy, accuracy and model intelligibility.
+  * Advanced model accuracy and performance on active ML problems over "state of the art" techniquesused at the LHC.
+  * Invented a methodology for performing feature dimensionality reduction to produce highly efficient,powerful and interpretable training features.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2011 - 2015: University of Hawaii, Graduate Research Assistant
+  * Designed Bose-Einstein Condensate simulations for a DoD funded lattice gas quantum computingexperiment.
+  * Interfaced analysis and trigger system code to FPGA hardware on a neutrino telescope.
+
+* 2009 - 2011: Northrop Grumman, Systems Engineer
+  * Designed and oversaw the deployment of a secure PTP radio network for Air Force installations.
+  * Managed network security/stability and worked as the Air Force point-of-contact for systemmanagement and reliability metrics.
+  * Obtained a secret security clearance.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Scikit-Learn, Numpy, Pandas, Matplotlib, Scipy
+* Tensorflow
+* PyTorch
+* Git
+* C++
+* Tableau
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+  Honors & Awards
+======
+* 2016-2018: NRT-DESE: Team Science for Integrative Graduate Training in Data Science andPhysical Science
+* 2020-2021: Chateaubriand Fellowship Program
   
 <!-- Talks
 ======
