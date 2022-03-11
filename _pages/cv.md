@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Physics, University of California at Irvine, 2021
   * GPA: 3.77
-  * Thesis Title: Decoding Black Box Models to Find New Physics at the LHC
+  * Thesis Title: [Decoding Black Box Models to Find New Physics at the LHC](https://escholarship.org/uc/item/63x9r13b)
 * M.S. in Physics, University of Hawaii at Manoa, 2015
   * GPA: 3.76
 * B.S. in Physics, Westminster College (SLC Utah), 2009
@@ -37,13 +37,21 @@ Work experience
   
 Skills
 ======
-* Python
-  * Scikit-Learn, Numpy, Pandas, Matplotlib, Scipy
-* Tensorflow
-* PyTorch
-* Git
-* C++
-* Tableau
+
+| Level | Skill |
+|-------|-------|
+|●●●●●  | Python, Keras, Scikit-Learn, Jupyter, Numpy/Pandas, Matplotlib, Git |
+|●●●◌◌  | Tensorflow, PyTorch, NLTK, ggplot2, Docker |
+|●●◌◌◌  | C++, Java, Julia, R, Matlab, AutoCAD, Tableau |
+
+Languages
+======
+
+| Proficiency | Language |
+|-------|-------|
+|●●●●●  | English (Native) |
+|●●●◌◌  | French |
+|●●◌◌◌  | Spanish |
 
 Publications
 ======
