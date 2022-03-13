@@ -15,6 +15,6 @@ Research Interests
 - ML Model Interpretability/Intelligibility
 - Black Box testing and Data Mining
 - Dimensionality Reduction and Processing Abstract Features to Human-Readable Information
-- Causality and Reinforcement Learning
+- Causality and guided learning
 
 <!-- I was a graduate student working with [Daniel Whiteson](https://www.physics.uci.edu/people/daniel-o-whiteson) at the University of California at Irvine from 2015-2021. I am now actively searching for new opportunities in industry -->
